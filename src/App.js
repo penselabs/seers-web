@@ -43,19 +43,16 @@ export default function App() {
         />
       </div>
 
-      <div className="grid grid-cols-1 text-lg">
-        Features:
-        <ul>
-          <li>
-            Decentralisation: user owns and is sovereign of part of the network.
-          </li>
-          <li>
-            Social enabled: look and feel like Twitter, but everything on-chain.
-          </li>
-          <li>
-            Crypto power: token transfers, prediction markets, DAOs, NFTs.
-          </li>
-        </ul>
+      <div className="grid grid-cols-3 text-lg">  
+        <div>
+          Decentralised: user owns and is sovereign of part of the network.
+        </div>
+        <div>
+          Social enabled: look and feel like Twitter, but everything on-chain.
+        </div>
+        <div>
+          Crypto powered: token transfers, prediction markets, DAOs, NFTs.
+        </div>
       </div>
     </div>
   );
