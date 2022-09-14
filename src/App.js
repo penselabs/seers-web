@@ -43,7 +43,7 @@ export default function App() {
         />
       </div>
 
-      <div>
+      <div className="grid grid-cols-1">
         Features:
         <ul>
           <li>
