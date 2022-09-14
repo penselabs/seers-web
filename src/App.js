@@ -43,14 +43,14 @@ export default function App() {
         />
       </div>
       <div className="grid grid-cols-3 text-lg max-w-3xl gap-10 text-blue-200">  
-        <div className="w-64 bg-black">
-          <h3 className="text-pink-300 mb-3">Decentralised</h3> User owns and is sovereign of part of the network.
+        <div className="w-64 bg-black p-2">
+          <h3 className="text-pink-300 mb-3 p-2">Decentralised</h3> User owns and is sovereign of part of the network.
         </div>
         <div className="w-64 bg-black">
-          <h3 className="text-pink-300 mb-3">Social</h3> Twitter's look-and-feel and everything on-chain.
+          <h3 className="text-pink-300 mb-3 p-2">Social</h3> Twitter's look-and-feel and everything on-chain.
         </div>
         <div className="w-64 bg-black">
-          <h3 className="text-pink-300 mb-3">Crypto Powered</h3> Token transfers, prediction markets, DAOs, NFTs.
+          <h3 className="text-pink-300 mb-3 p-2">Crypto Powered</h3> Token transfers, prediction markets, DAOs, NFTs.
         </div>
       </div>
     </div>
