@@ -9,7 +9,7 @@ import "./App.css";
 
 export default function App() {
   return (
-    <div className="app min-h-screen text-blue-200 flex items-center flex-col p-20">
+    <div className="app min-h-screen flex items-center flex-col p-20">
       {/* <div className="mb-10 grid grid-cols-4 grid-rows-2 w-1/2 mx-auto">
         <img className="opacity-25" src={logo} alt="React Logo" width="300" />
         <img
@@ -32,7 +32,7 @@ export default function App() {
         Decentralised Social Network running on top of the Internet Computer blockchain.  
       </h1>
 
-      <div className="grid grid-cols-2 grid-rows-2 gap-4">
+      <div className="grid grid-cols-2 grid-rows-2 gap-4 text-blue-200">
         <Button
           text="Enter"
           url="https://nmkbs-aaaaa-aaaam-aadfa-cai.ic0.app/"
