@@ -44,13 +44,13 @@ export default function App() {
       </div>
       <div className="grid grid-cols-3 text-lg max-w-3xl gap-10">  
         <div className="w-64">
-          <h3 className="text-pink-300 p-10">Decentralised</h3> user owns and is sovereign of part of the network.
+          <h3 className="text-pink-300 mb-3">Decentralised</h3> user owns and is sovereign of part of the network.
         </div>
         <div className="w-64">
-          <h3 className="text-pink-300 p-10">Social enabled</h3> look and feel like Twitter, but everything on-chain.
+          <h3 className="text-pink-300 mb-3">Social enabled</h3> look and feel like Twitter, but everything on-chain.
         </div>
         <div className="w-64">
-          <h3 className="text-pink-300 p-10">Crypto powered</h3> token transfers, prediction markets, DAOs, NFTs.
+          <h3 className="text-pink-300 mb-3">Crypto powered</h3> token transfers, prediction markets, DAOs, NFTs.
         </div>
       </div>
     </div>
