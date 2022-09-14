@@ -42,8 +42,7 @@ export default function App() {
           url=""
         />
       </div>
-
-      <div className="grid grid-cols-3 text-lg max-w-3xl">  
+      <div className="grid grid-cols-3 text-lg max-w-3xl gap-10">  
         <div className="w-64">
           Decentralised: user owns and is sovereign of part of the network.
         </div>
