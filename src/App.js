@@ -47,11 +47,13 @@ export default function App() {
         Features:
         <ul>
           <li>
-            Social primitives: threads, post, images, polls, repost, quote, etc.
-            Everything on-chain.
+            Decentralisation: user owns and is sovereign of part of the network.
           </li>
           <li>
-            Crypto primitives: token transfers, prediction markets, DAOs, NFTs.
+            Social enabled: look and feel like Twitter, but everything on-chain.
+          </li>
+          <li>
+            Crypto power: token transfers, prediction markets, DAOs, NFTs.
           </li>
         </ul>
       </div>
