@@ -42,6 +42,19 @@ export default function App() {
           url=""
         />
       </div>
+
+      <div>
+        Features:
+        <ul>
+          <li>
+            Social primitives: threads, post, images, polls, repost, quote, etc.
+            Everything on-chain.
+          </li>
+          <li>
+            Crypto primitives: token transfers, prediction markets, DAOs, NFTs.
+          </li>
+        </ul>
+      </div>
     </div>
   );
 }
