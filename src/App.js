@@ -24,7 +24,7 @@ export default function App() {
         <img className="opacity-25" src={logo} alt="React Logo" width="300" />
       </div> */}
 
-      <h1 className="text-2xl lg:text-5xl mb-10 text-right">
+      <h1 className="text-2xl lg:text-5xl mb-10 text-center">
       Seers<br/>
       decentralised social network  
       </h1>
