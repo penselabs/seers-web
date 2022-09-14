@@ -9,7 +9,7 @@ import "./App.css";
 
 export default function App() {
   return (
-    <div className="app min-h-screen flex items-center flex-col p-20">
+    <div className="app min-h-screen flex items-center flex-col p-20 text-white">
       {/* <div className="mb-10 grid grid-cols-4 grid-rows-2 w-1/2 mx-auto">
         <img className="opacity-25" src={logo} alt="React Logo" width="300" />
         <img
@@ -42,7 +42,7 @@ export default function App() {
           url=""
         />
       </div>
-      <div className="grid grid-cols-3 text-lg max-w-3xl gap-10">  
+      <div className="grid grid-cols-3 text-lg max-w-3xl gap-10 text-blue-200">  
         <div className="w-64">
           <h3 className="text-pink-300 mb-3">Decentralised</h3> user owns and is sovereign of part of the network.
         </div>
