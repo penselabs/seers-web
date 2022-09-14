@@ -25,9 +25,13 @@ export default function App() {
       </div> */}
 
       <h1 className="text-2xl lg:text-5xl mb-10 text-center">
-      Seers<br/>
-      Decentralised Social Network  
+        Seers
       </h1>
+
+      <h1 className="text-xl lg:text-2xl mb-10 text-center">
+        Decentralised Social Network running on top of the Internet Computer blockchain.  
+      </h1>
+
 
       {/* <div className="grid grid-cols-2 grid-rows-2 gap-4">
         <Button
