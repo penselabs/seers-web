@@ -9,7 +9,7 @@ import "./App.css";
 
 export default function App() {
   return (
-    <div className="app min-h-screen text-blue-200 flex items-center flex-col p-20">
+    <div className="app min-h-screen text-blue-200 flex items-center flex-col p-20 max-w-3xl">
       {/* <div className="mb-10 grid grid-cols-4 grid-rows-2 w-1/2 mx-auto">
         <img className="opacity-25" src={logo} alt="React Logo" width="300" />
         <img
@@ -44,13 +44,13 @@ export default function App() {
       </div>
 
       <div className="grid grid-cols-3 text-lg">  
-        <div>
+        <div className="w-64">
           Decentralised: user owns and is sovereign of part of the network.
         </div>
-        <div>
+        <div className="w-64">
           Social enabled: look and feel like Twitter, but everything on-chain.
         </div>
-        <div>
+        <div className="w-64">
           Crypto powered: token transfers, prediction markets, DAOs, NFTs.
         </div>
       </div>
