@@ -32,17 +32,16 @@ export default function App() {
         Decentralised Social Network running on top of the Internet Computer blockchain.  
       </h1>
 
-
-      {/* <div className="grid grid-cols-2 grid-rows-2 gap-4">
+      <div className="grid grid-cols-2 grid-rows-2 gap-4">
         <Button
-          text="DigitalOcean Docs"
-          url="https://www.digitalocean.com/docs/app-platform"
+          text="Enter"
+          url="https://nmkbs-aaaaa-aaaam-aadfa-cai.ic0.app/"
         />
         <Button
-          text="DigitalOcean Dashboard"
-          url="https://cloud.digitalocean.com/apps"
+          text="Documentation"
+          url=""
         />
-      </div> */}
+      </div>
     </div>
   );
 }
