@@ -29,7 +29,7 @@ export default function App() {
       </h1>
 
       <h1 className="text-xl lg:text-2xl mb-10 text-center">
-        Decentralised Social Network running on top of the Internet Computer blockchain.  
+        Decentralised Social Network  
       </h1>
 
       <div className="grid grid-cols-2 grid-rows-2 gap-4 text-blue-200">
@@ -44,17 +44,17 @@ export default function App() {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-3 text-lg max-w-3xl gap-10 text-blue-200">  
         <div className="w-64 bg-black p-2 rounded-xl">
-          <h3 className="text-pink-300 mb-3">Decentralised</h3> Users own their data and control the network through using a DAO.
-          <h6>ETA: 01/01/2023</h6>
+          <h3 className="text-pink-300 mb-3">Decentralised</h3> All data is stored on-chain and owned by users, who fully control the network through a DAO.
+          <br/>ETA: 01/01/2023
         </div>
         <div className="w-64 bg-black  p-2 rounded-xl">
-          <h3 className="text-pink-300 mb-3">Social</h3> Twitter's look-and-feel and everything on-chain.
+          <h3 className="text-pink-300 mb-3">Social</h3> Twitter's look-and-feel, 
         </div>
         <div className="w-64 bg-black  p-2 rounded-xl">
           <h3 className="text-pink-300 mb-3">Crypto Powered</h3> Token transfers, prediction markets, DAOs, NFTs.
         </div>
       </div>
-      <div className="text-white">Made by Pense Technologies</div>
+      <div className="text-grey mt-10">Made by Pense Technologies</div>
     </div>
   );
 }
