@@ -45,7 +45,8 @@ export default function App() {
       <div className="grid grid-cols-1 md:grid-cols-3 text-lg max-w-3xl gap-10 text-blue-200">  
         <div className="w-64 bg-black p-2 rounded-xl">
           <h3 className="text-pink-300 mb-3">Decentralised</h3> All data is stored on-chain and owned by users, who fully control the network through a DAO.
-          <br/>ETA: 01/01/2023
+          <br/> 
+          <div className="text-xs">ETA: 01/01/2023</div>
         </div>
         <div className="w-64 bg-black  p-2 rounded-xl">
           <h3 className="text-pink-300 mb-3">Social</h3> Twitter's look-and-feel, 
