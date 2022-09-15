@@ -54,7 +54,7 @@ export default function App() {
         </div>
       </div>
       <div className="grid grid-cols-1  text-lg max-w-3xl gap-10 text-blue-200 m-3 p-3">  
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/hT3QQ2rmYYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/hT3QQ2rmYYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       <div className="text-grey mt-10">© Pense Technologies</div>
     </div>
