@@ -44,7 +44,8 @@ export default function App() {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-3 text-lg max-w-3xl gap-10 text-blue-200">  
         <div className="w-64 bg-black p-2 rounded-xl">
-          <h3 className="text-pink-300 mb-3">Decentralised</h3> User owns and is sovereign of part of the network.
+          <h3 className="text-pink-300 mb-3">Decentralised</h3> Users own their data and control the network through using a DAO.
+          <h6>ETA: 01/01/2023</h6>
         </div>
         <div className="w-64 bg-black  p-2 rounded-xl">
           <h3 className="text-pink-300 mb-3">Social</h3> Twitter's look-and-feel and everything on-chain.
@@ -53,6 +54,7 @@ export default function App() {
           <h3 className="text-pink-300 mb-3">Crypto Powered</h3> Token transfers, prediction markets, DAOs, NFTs.
         </div>
       </div>
+      <div className="text-white">Made by Pense Technologies</div>
     </div>
   );
 }
