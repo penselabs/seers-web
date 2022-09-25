@@ -44,7 +44,7 @@ export default function App() {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-3 text-lg max-w-3xl gap-10 text-blue-200">  
         <div className="w-64 bg-black p-2 rounded-xl">
-          <h3 className="text-pink-300 mb-3">Decentralised</h3> All data is stored on-chain and owned by users, who fully control the network through a DAO.
+          <h3 className="text-pink-300 mb-3">Decentralised</h3> Data stored on-chain and owned by users, who fully control the network through a DAO.
         </div>
         <div className="w-64 bg-black  p-2 rounded-xl">
           <h3 className="text-pink-300 mb-3">Intuitive</h3> Twitter's look-and-feel, rapidly expanded with user proposals.
@@ -54,7 +54,7 @@ export default function App() {
         </div>
       </div>
       <div className="grid grid-cols-1  text-lg max-w-3xl gap-10 text-blue-200 m-3 p-3 overflow-auto">  
-      <iframe src="https://www.youtube.com/embed/hT3QQ2rmYYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="400" height="300" src="https://www.youtube.com/embed/hT3QQ2rmYYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       <div className="text-grey mt-10">© Pense Technologies</div>
     </div>
