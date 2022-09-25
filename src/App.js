@@ -32,7 +32,7 @@ export default function App() {
         Decentralised Social Network  
       </h1>
 
-      <div className="grid grid-cols-2 grid-rows-2 gap-4 text-blue-200">
+      <div className="grid grid-cols-1 grid-rows-1  gap-4 text-blue-200">
         <Button
           text="Enter"
           url="https://nmkbs-aaaaa-aaaam-aadfa-cai.ic0.app/"
@@ -53,7 +53,7 @@ export default function App() {
           <h3 className="text-pink-300 mb-3">Crypto Powered</h3> Token transfers, prediction markets, DAOs, NFTs.
         </div>
       </div>
-      <div className="grid grid-cols-1  text-lg max-w-3xl gap-10 text-blue-200 m-3 p-3 overflow-auto">  
+      <div className="grid grid-cols-1  text-lg gap-10 text-blue-200 m-3 p-3 overflow-auto">  
       <iframe width="400" height="300" src="https://www.youtube.com/embed/hT3QQ2rmYYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       <div className="text-grey mt-10">© Pense Technologies</div>
