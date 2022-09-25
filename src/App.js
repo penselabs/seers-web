@@ -25,7 +25,7 @@ export default function App() {
       </div> */}
 
       <h1 className="text-2xl lg:text-5xl mb-10 text-center">
-        Seers
+        Seers Protocol 🏝
       </h1>
 
       <h1 className="text-xl lg:text-2xl mb-10 text-center">
