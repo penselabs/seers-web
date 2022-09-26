@@ -32,7 +32,7 @@ export default function App() {
         Decentralised Social Network  
       </h1>
 
-      <div className="grid grid-cols-1 grid-rows-1  gap-4 text-blue-200">
+      <div className="grid grid-cols-1 grid-rows-1  gap-4 text-blue-200 p-3">
         <Button
           text="Enter"
           url="https://nmkbs-aaaaa-aaaam-aadfa-cai.ic0.app/"
