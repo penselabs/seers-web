@@ -53,7 +53,7 @@ export default function App() {
           <h3 className="text-pink-300 mb-3">Crypto Powered</h3> Token transfers, prediction markets, DAOs, NFTs.
         </div>
       </div>
-      <div className="grid grid-cols-1  text-lg gap-10 text-blue-200 m-3 p-3 overflow-auto">  
+      <div className="grid grid-cols-1 min-w-3xl text-lg gap-10 text-blue-200 m-3 p-3 overflow-auto">  
       <iframe width="400" height="300" src="https://www.youtube.com/embed/hT3QQ2rmYYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       <div className="text-grey mt-10">© Pense Technologies</div>
