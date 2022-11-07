@@ -25,11 +25,13 @@ export default function App() {
       </div> */}
       <div clasName="flex flex-row w-full">
 
-        <div><img src={logo} alt="" width="50px"/></div>
+        <div className="w-1/2"><img src={logo} alt="" width="50px"/></div>
 
-        <div><h1 className="text-2xl lg:text-5xl mb-10 text-center">
-          Seers
-        </h1></div>
+        <div className="w-1/2">
+          <h1 className="text-2xl lg:text-5xl mb-10 text-center">
+            Seers
+          </h1>
+        </div>
       </div>
 
       <h1 className="text-xl lg:text-2xl mb-10 text-center">
