@@ -25,7 +25,7 @@ export default function App() {
       </div> */}
       <div>
 
-        <img src={logo} alt="" width="50px" height="50px" style="border-radius: 50%;"/>
+        <img src={logo} alt="" width="50px"/>
 
       <h1 className="text-2xl lg:text-5xl mb-10 text-center">
         Seers
