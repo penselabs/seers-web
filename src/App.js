@@ -29,7 +29,7 @@ export default function App() {
       </h1>
 
       <h1 className="text-xl lg:text-2xl mb-10 text-center">
-        Decentralised Twitter Clone 
+        Decentralised Twitter
       </h1>
 
       <div className="grid grid-cols-1 grid-rows-1  gap-4 text-blue-200 p-3">
