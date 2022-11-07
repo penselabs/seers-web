@@ -23,7 +23,7 @@ export default function App() {
         <img className="opacity-25" src={logo} alt="React Logo" width="300" />
         <img className="opacity-25" src={logo} alt="React Logo" width="300" />
       </div> */}
-      <div className="flex flex-row">
+      <div className="flex flex-row items-center">
           <img src={logo} alt="" className="w-12 h-12"/>
 
           <h1 className="text-2xl lg:text-5xl mb-10 text-center">
