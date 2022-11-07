@@ -25,11 +25,11 @@ export default function App() {
       </div> */}
       <div clasName="grid grid-cols-2 gid-rows-1 gap-10">
 
-        <img src={logo} alt="" width="50px"/>
+        <div><img src={logo} alt="" width="50px"/></div>
 
-        <h1 className="text-2xl lg:text-5xl mb-10 text-center">
+        <div><h1 className="text-2xl lg:text-5xl mb-10 text-center">
           Seers
-        </h1>
+        </h1></div>
       </div>
 
       <h1 className="text-xl lg:text-2xl mb-10 text-center">
