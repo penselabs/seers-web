@@ -23,14 +23,13 @@ export default function App() {
         <img className="opacity-25" src={logo} alt="React Logo" width="300" />
         <img className="opacity-25" src={logo} alt="React Logo" width="300" />
       </div> */}
-      <div>
+      <div clasName="grid grid-cols-2 gid-rows-1 gap-10">
 
         <img src={logo} alt="" width="50px"/>
 
-      <h1 className="text-2xl lg:text-5xl mb-10 text-center">
-        Seers
-      </h1>
-
+        <h1 className="text-2xl lg:text-5xl mb-10 text-center">
+          Seers
+        </h1>
       </div>
 
       <h1 className="text-xl lg:text-2xl mb-10 text-center">
