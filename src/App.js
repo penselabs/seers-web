@@ -25,11 +25,11 @@ export default function App() {
       </div> */}
 
       <h1 className="text-2xl lg:text-5xl mb-10 text-center">
-        Seers Protocol 🏝
+        Seers
       </h1>
 
       <h1 className="text-xl lg:text-2xl mb-10 text-center">
-        Decentralised Social Network  
+        Decentralised Twitter Clone 
       </h1>
 
       <div className="grid grid-cols-1 grid-rows-1  gap-4 text-blue-200 p-3">
@@ -44,17 +44,17 @@ export default function App() {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-3 text-lg max-w-3xl gap-10 text-blue-200">  
         <div className="w-64 bg-black p-2 rounded-xl">
-          <h3 className="text-pink-300 mb-3">Decentralised</h3> Data stored on-chain and owned by users, who fully control the network through a DAO.
+          <h3 className="text-pink-600 mb-3">Decentralised</h3> Data is stored on-chain and owned by users. Users fully control the network through a DAO.
         </div>
         <div className="w-64 bg-black  p-2 rounded-xl">
-          <h3 className="text-pink-300 mb-3">Intuitive</h3> Twitter's look-and-feel, rapidly expanded with user proposals.
+          <h3 className="text-pink-600 mb-3">Intuitive</h3> Twitter's look-and-feel, rapidly expanded by user proposals.
         </div>
         <div className="w-64 bg-black  p-2 rounded-xl">
-          <h3 className="text-pink-300 mb-3">Crypto Powered</h3> Token transfers, prediction markets, DAOs, NFTs.
+          <h3 className="text-pink-600 mb-3">Crypto Powered</h3> Token transfers, prediction markets, DAOs, NFTs. 
         </div>
       </div>
       <div className="grid grid-cols-1 min-w-3xl text-lg gap-10 text-blue-200 m-3 p-3 overflow-auto">  
-      <iframe width="400" height="300" src="https://www.youtube.com/embed/hT3QQ2rmYYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="400px" height="300px" src="https://www.youtube.com/embed/hT3QQ2rmYYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       <div className="text-grey mt-10">© Pense Technologies</div>
     </div>
@@ -65,7 +65,7 @@ function Button({ className, text, url = "#" }) {
   return (
     <a
       href={url}
-      className={`${className} py-3 px-6 bg-pink-600 hover:bg-pink-400 text-black block rounded text-center shadow flex items-center justify-center leading-snug text-xs transition ease-in duration-150`}
+      className={`${className} py-3 px-6 bg-pink-600 hover:bg-pink-500 text-black block rounded text-center shadow flex items-center justify-center leading-snug text-xs transition ease-in duration-150`}
     >
       {text}
     </a>
