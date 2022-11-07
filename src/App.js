@@ -23,7 +23,7 @@ export default function App() {
         <img className="opacity-25" src={logo} alt="React Logo" width="300" />
         <img className="opacity-25" src={logo} alt="React Logo" width="300" />
       </div> */}
-      <div className="grid grid-cols-2 grid-rows-1 w-full">
+      <div className="grid grid-cols-2 grid-rows-1">
 
         <div className="w-1/2"><img src={logo} alt="" width="50px"/></div>
 
