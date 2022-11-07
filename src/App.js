@@ -23,13 +23,13 @@ export default function App() {
         <img className="opacity-25" src={logo} alt="React Logo" width="300" />
         <img className="opacity-25" src={logo} alt="React Logo" width="300" />
       </div> */}
-      <div style="display:flex; align-items: center">
+      <div>
 
-        <img src={logo} alt="" width="50px"/>
+        <img src={logo} alt="" width="50px" height="50px" style="border-radius: 50%;"/>
 
-        <h1 className="text-2xl lg:text-5xl mb-10 text-center">
-          Seers
-        </h1>
+      <h1 className="text-2xl lg:text-5xl mb-10 text-center">
+        Seers
+      </h1>
 
       </div>
 
