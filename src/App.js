@@ -24,7 +24,7 @@ export default function App() {
         <img className="opacity-25" src={logo} alt="React Logo" width="300" />
       </div> */}
       <div className="flex flex-col items-center">
-          <img src={logo} alt="" className="w-12 h-12 rounded-full mr-5"/>
+          <img src={logo} alt="" className="w-12 h-12 rounded-full"/>
 
           <h1 className="text-2xl lg:text-5xl text-center">
             Seers
