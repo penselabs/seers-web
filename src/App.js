@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "./logo.svg";
+import logo from "./bird.jpeg";
 import "./App.css";
 
 /**
@@ -25,7 +25,7 @@ export default function App() {
       </div> */}
       <div>
 
-        <img src="https://nmkbs-aaaaa-aaaam-aadfa-cai.ic0.app/assets/logo.50b30ce3.jpeg" alt="" width="50px"/>
+        <img src={logo} alt="" width="50px"/>
 
       <h1 className="text-2xl lg:text-5xl mb-10 text-center">
         Seers
