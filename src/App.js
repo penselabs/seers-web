@@ -29,12 +29,12 @@ export default function App() {
             Seers
           </h1>
 
-          <img src={logo} alt="" className="w-12 h-12 rounded-full"/>
+          <img src={logo} alt="" className="w-12 h-12 rounded-full p-2"/>
 
       </div>
 
       <h1 className="text-xl lg:text-2xl mb-10 text-center">
-        Decentralised Twitter
+        decentralised twitter
       </h1>
 
       <div className="grid grid-cols-1 grid-rows-1  gap-4 text-blue-200 p-3 mb-10 ">
