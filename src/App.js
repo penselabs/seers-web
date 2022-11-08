@@ -33,8 +33,8 @@ export default function App() {
 
       </div>
 
-      <h1 className="text-xl lg:text-2xl mb-10 text-center">
-        decentralised crypto Twitter
+      <h1 className="text-xl lg:text-2xl mb-10 text-center w-3/4">
+        Decentralised Crypto Twitter
       </h1>
 
       <div className="grid grid-cols-1 grid-rows-1  gap-4 text-blue-200 p-3 mb-10 ">
