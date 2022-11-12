@@ -55,9 +55,9 @@ export default function App() {
           <h3 className="mb-3">Crypto Powered</h3> Token transfers, prediction markets, DAOs, NFTs. The imagination is the limit.
         </div>
       </div>
-      <div className="grid grid-cols-1 min-w-3xl text-lg gap-10 text-blue-200 m-3 p-3 overflow-auto">  
+      {/* <div className="grid grid-cols-1 min-w-3xl text-lg gap-10 text-blue-200 m-3 p-3 overflow-auto">  
       <iframe width="100%" height="auto" src="https://www.youtube.com/embed/hT3QQ2rmYYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
+      </div> */}
       <div className="text-grey mt-10">© Pense Technologies</div>
     </div>
   );
