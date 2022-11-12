@@ -38,14 +38,10 @@ export default function App() {
       </h1>
 
       <div className="grid grid-cols-1 grid-rows-1  gap-4 text-blue-200 p-3 mb-10 ">
-        <Button
+        <button
           text="Enter"
           url="https://nmkbs-aaaaa-aaaam-aadfa-cai.ic0.app/"
         />
-        {/* <Button
-          text="Documentation"
-          url=""
-        /> */}
       </div>
       <div className="grid grid-cols-1 md:grid-cols-3 text-lg max-w-3xl gap-10 text-blue-200">  
         <div className="w-64 bg-black p-2 rounded-xl">
