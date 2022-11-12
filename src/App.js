@@ -1,5 +1,6 @@
 import React from "react";
 import logo from "./bird.jpeg";
+import intro from "./seers-intro.gif"
 import "./App.css";
 
 /**
@@ -36,6 +37,9 @@ export default function App() {
       <h1 className="text-xl lg:text-2xl mb-10 text-center w-full p-1 md:w-3/4">
         Decentralised Crypto Twitter
       </h1>
+
+      <img src={intro} alt="" className="w-12 h-12 rounded-full p-2"/>
+
 
       <div className="grid grid-cols-1 grid-rows-1  gap-4 text-blue-200 p-3 mb-10 ">
         <Button
