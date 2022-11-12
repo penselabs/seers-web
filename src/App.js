@@ -35,7 +35,7 @@ export default function App() {
       </div>
 
       <h1 className="text-xl lg:text-2xl text-center w-full p-1 md:w-3/4">
-        Decentralised Crypto Twitter
+        Crypto Twitter
       </h1>
 
       <img src={intro} alt="" className="w-1/3 p-2"/>
