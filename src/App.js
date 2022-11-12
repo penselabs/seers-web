@@ -43,7 +43,7 @@ export default function App() {
           url="https://nmkbs-aaaaa-aaaam-aadfa-cai.ic0.app/"
         />
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-3 text-lg max-w-3xl gap-10 text-blue-200">  
+      <div className="grid grid-cols-1 md:grid-cols-3 text-lg max-w-3xl gap-10">  
         <div className="w-64 bg-black p-2 rounded-xl">
           <h3 className="mb-3">Decentralised</h3> Users fully control the network through a DAO. Data is stored on-chain and owned by users. 
         </div>
