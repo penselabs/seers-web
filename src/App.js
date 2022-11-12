@@ -49,13 +49,13 @@ export default function App() {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-3 text-lg max-w-3xl gap-10 text-blue-200">  
         <div className="w-64 bg-black p-2 rounded-xl">
-          <h3 className="text-pink-600 mb-3">Decentralised</h3> Users fully control the network through a DAO. Data is stored on-chain and owned by users. 
+          <h3 className="text-[#e6007a] mb-3">Decentralised</h3> Users fully control the network through a DAO. Data is stored on-chain and owned by users. 
         </div>
         <div className="w-64 bg-black  p-2 rounded-xl">
-          <h3 className="text-pink-600 mb-3">Intuitive</h3> Twitter's look-and-feel, rapidly expanded by user proposals. Bi-directional bridge to Twitter.
+          <h3 className="text-[#e6007a] mb-3">Intuitive</h3> Twitter's look-and-feel, rapidly expanded by user proposals. Bi-directional bridge to Twitter.
         </div>
         <div className="w-64 bg-black  p-2 rounded-xl">
-          <h3 className="text-pink-600 mb-3">Crypto Powered</h3> Token transfers, prediction markets, DAOs, NFTs. The imagination is the limit.
+          <h3 className="text-[#e6007a] mb-3">Crypto Powered</h3> Token transfers, prediction markets, DAOs, NFTs. The imagination is the limit.
         </div>
       </div>
       <div className="grid grid-cols-1 min-w-3xl text-lg gap-10 text-blue-200 m-3 p-3 overflow-auto">  
