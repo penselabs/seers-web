@@ -29,7 +29,7 @@ export default function App() {
             Seers
           </h1>
 
-          <img src={logo} alt="" className="w-12 h-12 rounded-full p-2"/>
+          {/* <img src={logo} alt="" className="w-12 h-12 rounded-full p-2"/> */}
 
       </div>
 
