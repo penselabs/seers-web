@@ -33,7 +33,7 @@ export default function App() {
 
       </div>
 
-      <h1 className="text-xl lg:text-2xl mb-10 text-center w-full p-1 md:w-3/4 font-['Space Grotesk']">
+      <h1 className="text-xl lg:text-2xl mb-10 text-center w-full p-1 md:w-3/4">
         Decentralised Crypto Twitter
       </h1>
 
