@@ -38,7 +38,7 @@ export default function App() {
         Crypto Twitter
       </h1>
 
-      <img src={intro} alt="" className="w-1/3 p-2"/>
+      <img src={intro} alt="" className="w-96 h-64 p-2"/>
 
 
       <div className="grid grid-cols-1 grid-rows-1  gap-4 text-blue-200 p-3 mb-10 ">
