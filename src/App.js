@@ -25,7 +25,7 @@ export default function App() {
       </div> */}
       <div className="flex flex-col items-center">
           
-          <h1 className="text-2xl lg:text-5xl text-center">
+          <h1 className="text-2xl lg:text-5xl text-center logo">
             Seers
           </h1>
 
