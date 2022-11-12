@@ -38,7 +38,7 @@ export default function App() {
       </h1>
 
       <div className="grid grid-cols-1 grid-rows-1  gap-4 text-blue-200 p-3 mb-10 ">
-        <button
+        <Button
           text="Enter"
           url="https://nmkbs-aaaaa-aaaam-aadfa-cai.ic0.app/"
         />
