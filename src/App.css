@@ -9,8 +9,10 @@
   background-image: url("./mesh-pink-0.png");
 
   /* Full height */
-  height: 300px;
+  height: 100px;
+  width: 300px;
   padding: 30px;
+  margin: 30px;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
