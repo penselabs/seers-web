@@ -63,7 +63,7 @@ export default function App() {
       <iframe width="100%" height="auto" src="https://www.youtube.com/embed/hT3QQ2rmYYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div> */}
       <div className="parallax"></div>
-      <div className="m-5 p-5">Create interoperable social networks to quickly push the limits of what’s possible.</div>
+      <div className="h-full m-5 p-5">Create interoperable social networks to quickly push the limits of what’s possible.</div>
       <div className="text-grey mt-10">© Pense Technologies</div>
     </div>
   );
