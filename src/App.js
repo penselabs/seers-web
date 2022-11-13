@@ -56,7 +56,7 @@ export default function App() {
           <h3 className="mb-3">Intuitive</h3> Twitter's look-and-feel, rapidly expanded by user proposals. Bi-directional bridge to Twitter.
         </div>
         <div className="w-64 bg-black  p-2 rounded-xl">
-          <h3 className="mb-3">Crypto Powered</h3> Token transfers, prediction markets, DAOs, NFTs. The imagination is the limit.
+          <h3 className="mb-3">Crypto Powered</h3> Token transfers, prediction markets, DAOs, NFTs. Only imagination is the limit.
         </div>
       </div>
       {/* <div className="grid grid-cols-1 min-w-3xl text-lg gap-10 text-blue-200 m-3 p-3 overflow-auto">  
