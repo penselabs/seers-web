@@ -35,7 +35,7 @@ export default function App() {
       </div>
 
       <h1 className="text-xl lg:text-2xl text-center w-full p-1 md:w-3/4">
-        Crypto Twitter is Here
+        The Social Network of The Future is Here
       </h1>
 
       <img src={intro} alt="" className="p-2 md:w-96 md:h-64"/>
