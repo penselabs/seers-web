@@ -17,21 +17,6 @@ h3 {
   background-color: #e6007a;
 }
 
-.parallax {
-  /* The image used */
-  background-image: url("%PUBLIC_URL%/mesh-pink-0.png");
-
-  width: 500px;
-  /* Full height */
-  height: 100%;
-
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
