@@ -45,7 +45,7 @@ export default function App() {
         <Button
           className="pink-color"
           text="Enter"
-          url="https://nmkbs-aaaaa-aaaam-aadfa-cai.ic0.app/"
+          url="https://oulla-fyaaa-aaaag-qa6fa-cai.ic0.app/"
         />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-3 text-lg max-w-3xl gap-10">  
