@@ -65,7 +65,7 @@ export default function App() {
       <div className="h-full m-5 p-5 pink-box text-lg">Create interoperable social networks to quickly push the limits of what’s possible.</div>
       {/* <div className="parallax"></div> */}
       
-      <div className="grid grid-cols-1 md:grid-cols-3 text-lg max-w-3xl gap-10">  
+      <div className="grid grid-cols-1 text-lg max-w-3xl gap-10">  
         <div className="w-64 bg-black p-2 rounded-xl">
           <h3 className="mb-3">Tokenomics</h3>
             At genesis the total supply of SEERS tokens will be 1B.
