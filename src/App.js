@@ -63,7 +63,29 @@ export default function App() {
       <iframe width="100%" height="auto" src="https://www.youtube.com/embed/hT3QQ2rmYYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div> */}
       <div className="h-full m-5 p-5 pink-box text-lg">Create interoperable social networks to quickly push the limits of what’s possible.</div>
-      <div className="parallax"></div>
+      {/* <div className="parallax"></div> */}
+      
+      <div className="grid grid-cols-1 md:grid-cols-3 text-lg max-w-3xl gap-10">  
+        <div className="w-64 bg-black p-2 rounded-xl">
+          <h3 className="mb-3">Tokenomics</h3>
+            At genesis the total supply of SEERS tokens will be 1B.
+
+            The SNS could be configured to generate 1% of the total supply annually to pay rewards to participating neurons.
+            This reward parameter of 1% can be subsequently changed by proposal.
+            It is also possible for the SNS to mint tokens by proposal, but it is unlikely the Seers DAO will choose to do so.
+
+            At genesis the SNS will have a treasury of ICP from the decentralization sale and ~400M SEERS tokens.
+
+            The SNS will receive an income in SEER tokens from premium features, transaction fees, integrations.
+            The SNS should also burn tokens according to he usage of the social network. 
+ 
+            The SNS will also receive an income in ICP from the social network usage.
+
+            The SNS will use ICP to pay the Seers dapp costs, integrations, and the team. It will use SEERS to pay user rewards and community bounties.
+
+            As the Seers DAO sees fit it can choose to burn SEERS tokens to reduce the total supply. 
+        </div>
+      </div>
       
       <div className="text-grey mt-10">© Pense Technologies</div>
     </div>
