@@ -81,9 +81,9 @@ export default function App() {
             The SNS will receive an income in SEER tokens from premium features, transaction fees, integrations.
             The SNS should also burn tokens according to he usage of the social network. 
             <br/><br/>
-            The SNS will also receive an income in ICP from the social network usage.
+            The SNS will also receive an income in ICP/BTC from the social network usage.
             <br/><br/>
-            The SNS will use ICP to pay the Seers dapp costs, integrations, and the team. It will use SEERS to pay user rewards and community bounties.
+            The SNS will use ICP/BTC to pay the Seers dapp costs, integrations, and the team. It will use SEERS to pay user rewards and community bounties.
             <br/><br/>
             As the Seers DAO sees fit it can choose to burn SEERS tokens to reduce the total supply.
             <br/><br/>
