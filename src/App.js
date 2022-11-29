@@ -66,7 +66,7 @@ export default function App() {
       {/* <div className="parallax"></div> */}
       
       <div className="grid grid-cols-1 text-lg max-w-3xl gap-10">  
-        <div className="w-64 bg-black p-2 rounded-xl">
+        <div className="bg-black p-2 rounded-xl">
           <h3 className="mb-3">Tokenomics</h3>
             At genesis the total supply of SEERS tokens will be 1B.
 
