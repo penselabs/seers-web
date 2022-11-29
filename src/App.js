@@ -67,23 +67,27 @@ export default function App() {
       
       <div className="grid grid-cols-1 text-lg max-w-3xl gap-10">  
         <div className="bg-black p-2 rounded-xl">
-          <h3 className="mb-3">Tokenomics</h3>
-            At genesis the total supply of SEERS tokens will be 1B.
+          <h3 className="mb-3">Tokenomics *</h3>
+            At genesis the total supply of SEERS tokens will be 1B.<br/><br/>
 
             The SNS could be configured to generate 1% of the total supply annually to pay rewards to participating neurons.
             This reward parameter of 1% can be subsequently changed by proposal.
             It is also possible for the SNS to mint tokens by proposal, but it is unlikely the Seers DAO will choose to do so.
+            <br/><br/>
 
             At genesis the SNS will have a treasury of ICP from the decentralization sale and ~400M SEERS tokens.
+            <br/><br/>
 
             The SNS will receive an income in SEER tokens from premium features, transaction fees, integrations.
             The SNS should also burn tokens according to he usage of the social network. 
- 
+            <br/><br/>
             The SNS will also receive an income in ICP from the social network usage.
-
+            <br/><br/>
             The SNS will use ICP to pay the Seers dapp costs, integrations, and the team. It will use SEERS to pay user rewards and community bounties.
-
-            As the Seers DAO sees fit it can choose to burn SEERS tokens to reduce the total supply. 
+            <br/><br/>
+            As the Seers DAO sees fit it can choose to burn SEERS tokens to reduce the total supply.
+            <br/><br/>
+            * subject to SNS capabilitites
         </div>
       </div>
       
