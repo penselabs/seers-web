@@ -49,16 +49,16 @@ export default function App() {
         />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-4 text-lg max-w-3xl gap-20">  
-        <div className="w-64 bg-black p-2 rounded-xl">
+        <div className="w-64 bg-black p-2 rounded-xl break-normal">
           <h3 className="mb-3">Decentralised</h3> Users fully control the network through a DAO. Data is stored on-chain and owned by users. 
         </div>
-        <div className="w-64 bg-black  p-2 rounded-xl">
+        <div className="w-64 bg-black  p-2 rounded-xl break-normal">
           <h3 className="mb-3">Intuitive</h3> Twitter's look-and-feel, rapidly expanded by user proposals. Direct connection to Twitter using https outcalls.
         </div>
-        <div className="w-64 bg-black  p-2 rounded-xl">
+        <div className="w-64 bg-black  p-2 rounded-xl break-normal">
           <h3 className="mb-3">Crypto Powered</h3> Token transfers, prediction markets, DAOs, NFTs.
         </div>
-        <div className="w-64 bg-black  p-2 rounded-xl">
+        <div className="w-64 bg-black  p-2 rounded-xl break-normal">
           <h3 className="mb-3">AI Powered</h3> Smart bots helping users and producing quality content.
         </div>
       </div>
