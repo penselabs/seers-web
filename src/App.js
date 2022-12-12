@@ -35,7 +35,7 @@ export default function App() {
       </div>
 
       <h1 className="text-xl lg:text-2xl text-center w-full p-1 md:w-3/4">
-        The Social Network of The Future is Here
+        A glimpse into the future
       </h1>
 
       <img src={intro} alt="" className="p-2 md:w-96 md:h-64"/>
@@ -48,15 +48,18 @@ export default function App() {
           url="https://oulla-fyaaa-aaaag-qa6fa-cai.ic0.app/"
         />
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-3 text-lg max-w-3xl gap-10">  
+      <div className="grid grid-cols-1 md:grid-cols-4 text-lg max-w-3xl gap-10">  
         <div className="w-64 bg-black p-2 rounded-xl">
           <h3 className="mb-3">Decentralised</h3> Users fully control the network through a DAO. Data is stored on-chain and owned by users. 
         </div>
         <div className="w-64 bg-black  p-2 rounded-xl">
-          <h3 className="mb-3">Intuitive</h3> Twitter's look-and-feel, rapidly expanded by user proposals. Bi-directional bridge to Twitter.
+          <h3 className="mb-3">Intuitive</h3> Twitter's look-and-feel, rapidly expanded by user proposals. Direct connection to Twitter using https outcalls.
         </div>
         <div className="w-64 bg-black  p-2 rounded-xl">
-          <h3 className="mb-3">Crypto Powered</h3> Token transfers, prediction markets, DAOs, NFTs. Only imagination is the limit.
+          <h3 className="mb-3">Crypto Powered</h3> Token transfers, prediction markets, DAOs, NFTs.
+        </div>
+        <div className="w-64 bg-black  p-2 rounded-xl">
+          <h3 className="mb-3">AI Powered</h3> Smart bots helping users and producing quality content.
         </div>
       </div>
       {/* <div className="grid grid-cols-1 min-w-3xl text-lg gap-10 text-blue-200 m-3 p-3 overflow-auto">  
