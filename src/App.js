@@ -59,7 +59,7 @@ export default function App() {
           <h3 className="mb-3">Crypto Powered</h3> Token transfers, prediction markets, DAOs, NFTs.
         </div>
         <div className="w-64 bg-black  p-2 rounded-xl break-normal">
-          <h3 className="mb-3">AI Powered</h3> Smart bots helping users and producing quality content.
+          <h3 className="mb-3">AI Powered</h3> Smart bots helping users and producing high quality content.
         </div>
       </div>
       {/* <div className="grid grid-cols-1 min-w-3xl text-lg gap-10 text-blue-200 m-3 p-3 overflow-auto">  
