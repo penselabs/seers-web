@@ -48,7 +48,7 @@ export default function App() {
           url="https://oulla-fyaaa-aaaag-qa6fa-cai.ic0.app/"
         />
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-4 text-lg max-w-3xl gap-20">  
+      <div className="grid grid-cols-1 md:grid-cols-2 text-lg max-w-3xl gap-20">  
         <div className="w-64 bg-black p-2 rounded-xl break-normal">
           <h3 className="mb-3">Decentralised</h3> Users fully control the network through a DAO. Data is stored on-chain and owned by users. 
         </div>
